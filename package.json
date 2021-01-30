@@ -1,0 +1,23 @@
+{
+  "name": "semana-nivelamento-aulas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/bootcamp-infnet-21.1/semana-nivelamento-aulas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bootcamp-infnet-21.1/semana-nivelamento-aulas/issues"
+  },
+  "homepage": "https://gitlab.com/bootcamp-infnet-21.1/semana-nivelamento-aulas#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
